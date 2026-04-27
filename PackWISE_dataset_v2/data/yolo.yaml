@@ -1,0 +1,27 @@
+names:
+  0: undefined
+  1: plastic-foil/bag
+  2: aluminium-coated-foil
+  3: paper-bag
+  4: beverage-carton
+  5: plastic-other
+  6: plastic-lid
+  7: plastic-cup/pot
+  8: blister
+  9: metal-can
+  10: metal-foil
+  11: net
+  12: metal-lid
+  13: tissue
+  14: wood
+  15: paper-other
+  16: foamed-plastic
+  17: textile
+  18: plastic-bottle
+  19: ribbon/tape
+  20: metal-other
+  21: tube
+  22: paper-cup/pot
+path: /Users/patrickschnepf/Desktop/Master WINF/2 Semester/Projekt DS/PackWISE_dataset_v2/data
+train: train
+val: val

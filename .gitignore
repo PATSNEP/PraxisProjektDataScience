@@ -1,0 +1,40 @@
+# ===========================
+# Mac OS
+# ===========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ===========================
+# Python / Jupyter
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# ===========================
+# Machine Learning Modelle
+# ===========================
+*.pt
+*.pth
+*.onnx
+
+# ===========================
+# YOLOv8 / Ultralytics
+# ===========================
+runs/
+Workflows/runs/
+*.cache
+yolov8n.pt
+rtdetr-l.pt
+
+# ===========================
+# Datensätze (Vermeidung des 100MB Git-Limits)
+# ===========================
+PackWISE_dataset_v2/data/train/
+PackWISE_dataset_v2/data/val/
+PackWISE_dataset_v2/data/test/
+*.zip
+*.tar.gz
+*.csv
